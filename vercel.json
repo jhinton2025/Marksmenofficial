@@ -9,6 +9,14 @@
     {
       "source": "/",
       "destination": "/api"
+    },
+    {
+      "source": "/api/contact",
+      "destination": "/api"
+    },
+    {
+      "source": "/api/custom-order",
+      "destination": "/api"
     }
   ]
 }
